@@ -1,20 +1,5 @@
-# Evite la carga accidental de los archivos de diseño de boceto y figma
-#################################################
-## Por favor, no elimine las líneas 5 y 6, ¡gracias!🙂 ##
-#####################################################
-*.sketch
-*.fig
-
-# Evite la carga XD accidental si convierte el archivo de diseño
-###############################################
-## Por favor, no elimine la línea 12, ¡gracias!🙂 ##
-###############################################
-*.xd
-
-# Avoid your project being littered with annoying .DS_Store files!
-.DS_Store
-.prettierignore
-.design
-.style-guide
-.README-template
-.info.text
+design
+style-guide
+README-template.md
+info.text
+style-guide.md
